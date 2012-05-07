@@ -5811,7 +5811,10 @@ msgstr "Viper féllánctalpas szervizkocsi"
 
 #: data/base/messages/strings/names.txt:174
 #: data/mp/messages/strings/names.txt:177
-#: data/mp/messages/strings/names.txt:1840
+#: data/mp/messages/strings/
+
+#: data/base/messages/strings/cam2strings.txt:128
+msgid names.txt:1840
 msgid "Twin Machinegun Viper Wheels"
 msgstr "Viper iker gépfegyver"
 
