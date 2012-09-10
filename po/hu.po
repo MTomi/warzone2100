@@ -7971,7 +7971,8 @@ msgstr "Üzemanyag befecskendezéses motor Mk2"
 #: data/base/messages/strings/names.txt:944
 #: data/mp/messages/strings/names.txt:956
 msgid "Fuel Injection Engine Mk3"
-msgstr "Üzemanyag befecskendezéses motor Mk3"
+msgstr "Üzemanyag be
+msgstr fecskendezéses motor Mk3"
 
 #: data/base/messages/strings/names.txt:946
 #: data/mp/messages/strings/names.txt:958
